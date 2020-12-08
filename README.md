@@ -10,8 +10,11 @@ composer require annotations
 
 for test route pages
 http://localhost/symfony/public/
+
 http://localhost/symfony/public/luckynumber
+
 http://localhost/symfony/public/show/abc
+
 
 if 
 http://localhost/symfony/public/luckynumber will not works for you thats mean your .htaccess file is missing
